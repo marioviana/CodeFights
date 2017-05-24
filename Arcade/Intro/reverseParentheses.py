@@ -20,4 +20,3 @@ def reverseParentheses(s):
         if (flag >1 and (i!='(') and (i!=')')):
             c = c+i
     return a
-        
